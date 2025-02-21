@@ -1,12 +1,11 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<view name="menu, system, basic, detailed, video, grid, gamecarousel">
-	<helpsystem name="help">
-      <iconA>./includes/buttons/default/buttons_east.svg</iconA>
-      <iconB>./includes/buttons/default/buttons_south.svg</iconB>
-      <iconX>./includes/buttons/default/buttons_north.svg</iconX>
-      <iconY>./includes/buttons/default/buttons_west.svg</iconY>
-	</helpsystem>		
-	</view>	
+		<helpsystem name="help">
+			<iconA>./includes/buttons/default/buttons_east.svg</iconA>
+			<iconB>./includes/buttons/default/buttons_south.svg</iconB>
+			<iconX>./includes/buttons/default/buttons_north.svg</iconX>
+			<iconY>./includes/buttons/default/buttons_west.svg</iconY>
+		</helpsystem>
+	</view>
 </theme>
-
