@@ -99,10 +99,11 @@
         <include name="OFF" displayName="OFF" />
     </subset>
 
-    <subset name="System Logo Priority" displayName="System Logo Priority">
-        <include name="svg" displayName="svg" />
-        <include name="png" displayName="png" />
-    </subset>
+<subset name="System Logo Priority" displayName="System Logo Priority">
+<include name="svg" displayName="svg"/>
+<include name="png" displayName="png"/>
+<include name="white" displayName="white"/>
+</subset>
 
     <subset name="Logo Opacity" displayName="Logo Opacity">
         <include name="100%" displayName="100%">./includes/logo opacity/100%.xml</include>

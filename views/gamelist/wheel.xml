@@ -196,22 +196,22 @@
         </video>
 
 
-        <image name="md_marquee" extra="true">
-            <pos ifSubset="Wheel Position:Right">0.28 0.124</pos>
-            <pos ifSubset="Wheel Position:Left">0.72 0.124</pos>
-            <origin>0.5 0.5</origin>
-            <maxSize>0.4 .2</maxSize>
-        </image>
-
-        <rating name="md_rating">
-            <origin>0.5 0.5</origin>
-            <pos ifSubset="Wheel Position:Right">0.63 0.81</pos>
-            <pos ifSubset="Wheel Position:Left">0.41 0.81</pos>
-            <maxSize>0.100 0.030</maxSize>
-            <filledPath>./art/icons/star_filled.png</filledPath>
-            <unfilledPath>./art/icons/star_empty.png</unfilledPath>
-            <zIndex>15</zIndex>
-        </rating>
+<image name="md_marquee" extra="true">
+<pos ifSubset="Wheel Position:Right">0.282 0.126</pos>
+<pos ifSubset="Wheel Position:Left">0.721 0.126</pos>
+<origin>0.5 0.5</origin>
+<maxSize>0.4 .2</maxSize>
+</image>
+		
+<rating name="md_rating">
+<origin>0.5 0.5</origin>      
+<pos ifSubset="Wheel Position:Right">0.63 0.81</pos>
+<pos ifSubset="Wheel Position:Left">0.41 0.81</pos>
+<maxSize>0.100 0.030</maxSize>
+<filledPath>./art/icons/star_filled.png</filledPath>
+<unfilledPath>./art/icons/star_empty.png</unfilledPath>	
+<zIndex>15</zIndex>
+</rating>	 
 
         <!-- Regional Flag -->
         <image name="md_flag">
